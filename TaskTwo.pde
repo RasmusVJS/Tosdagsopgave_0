@@ -1,0 +1,10 @@
+String teacherName= "Tess Løvgreen";
+int year= 365;
+String capital= "København";
+boolean rasmusIsGreat= true;
+int minutesInDay= 60*24;
+float number= 22.12;
+String teacherGreeting= "Hej, jeg heddder " + teacherName;
+boolean rasmusCantCode= false;
+float biggerNumber= 2.2 + 33;
+char capitalS= 'S';
